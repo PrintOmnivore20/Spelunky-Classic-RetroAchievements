@@ -1,2 +1,0 @@
-olmecDead = false;
-doorOpen = false;

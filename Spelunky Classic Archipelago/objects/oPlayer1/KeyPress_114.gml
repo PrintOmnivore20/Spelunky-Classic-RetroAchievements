@@ -1,2 +1,0 @@
-global.plife=99
-

@@ -1,2 +1,0 @@
-scrSaveSettings();
-game_end();
